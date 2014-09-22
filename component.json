@@ -1,0 +1,19 @@
+{
+  "name": "extension",
+  "repo": "ddict/extension",
+  "description": "cross browser extension api",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/index.js",
+    "lib/chrome.js",
+    "lib/opera.js"
+  ]
+}
