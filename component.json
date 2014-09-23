@@ -13,7 +13,9 @@
   "scripts": [
     "index.js",
     "lib/index.js",
-    "lib/chrome.js",
+    "lib/chrome/index.js",
+    "lib/chrome/context_menu.js",
+    "lib/chrome/event.js",
     "lib/opera.js"
   ]
 }
