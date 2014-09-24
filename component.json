@@ -14,8 +14,9 @@
     "index.js",
     "lib/index.js",
     "lib/chrome/index.js",
-    "lib/chrome/context_menu.js",
     "lib/chrome/event.js",
+    "lib/chrome/context_menu.js",
+    "lib/chrome/tab.js",
     "lib/opera.js"
   ]
 }
