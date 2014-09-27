@@ -1,6 +1,6 @@
 {
   "name": "extension",
-  "repo": "ddict/extension",
+  "repo": "ddict/extension-webkit",
   "description": "cross browser extension api",
   "version": "0.0.1",
   "keywords": [],
